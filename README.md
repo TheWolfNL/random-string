@@ -1,5 +1,6 @@
 # random-string
 [![Go Reference](https://pkg.go.dev/badge/github.com/TheWolfNL/random-string.svg)](https://pkg.go.dev/github.com/TheWolfNL/random-string)
+
 Golang lib to generate a random string efficiently, with specified length / chars
 
 Installation
