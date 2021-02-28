@@ -1,3 +1,3 @@
-module github.com/TheWolfNL/random-string
+module github.com/thewolfnl/random-string
 
 go 1.16
